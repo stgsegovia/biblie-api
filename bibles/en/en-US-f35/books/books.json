@@ -1,0 +1,92 @@
+﻿[
+    {
+        "id":  "en-US-f35-1corinthians",
+        "root_name":  "1corinthians",
+        "name":  "1corinthians",
+        "local_name":  "1 Corinthians",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-2corinthians",
+        "root_name":  "2corinthians",
+        "name":  "2corinthians",
+        "local_name":  "2 Corinthians",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-acts",
+        "root_name":  "acts",
+        "name":  "acts",
+        "local_name":  "Acts",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-ephesians",
+        "root_name":  "ephesians",
+        "name":  "ephesians",
+        "local_name":  "Ephesians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-galatians",
+        "root_name":  "galatians",
+        "name":  "galatians",
+        "local_name":  "Galatians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-john",
+        "root_name":  "john",
+        "name":  "john",
+        "local_name":  "John",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-luke",
+        "root_name":  "luke",
+        "name":  "luke",
+        "local_name":  "Luke",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-mark",
+        "root_name":  "mark",
+        "name":  "mark",
+        "local_name":  "Mark",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-matthew",
+        "root_name":  "matthew",
+        "name":  "matthew",
+        "local_name":  "Matthew",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-f35-philippians",
+        "root_name":  "philippians",
+        "name":  "philippians",
+        "local_name":  "Philippians",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    }
+]

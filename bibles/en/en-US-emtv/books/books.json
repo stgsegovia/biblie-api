@@ -1,0 +1,245 @@
+﻿[
+    {
+        "id":  "en-US-emtv-1john",
+        "root_name":  "1john",
+        "name":  "1john",
+        "local_name":  "1 John",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-1peter",
+        "root_name":  "1peter",
+        "name":  "1peter",
+        "local_name":  "1 Peter",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-1thessalonians",
+        "root_name":  "1thessalonians",
+        "name":  "1thessalonians",
+        "local_name":  "1 Thessalonians",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-1timothy",
+        "root_name":  "1timothy",
+        "name":  "1timothy",
+        "local_name":  "1 Timothy",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-2corinthians",
+        "root_name":  "2corinthians",
+        "name":  "2corinthians",
+        "local_name":  "2 Corinthians",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-2john",
+        "root_name":  "2john",
+        "name":  "2john",
+        "local_name":  "2 John",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-2peter",
+        "root_name":  "2peter",
+        "name":  "2peter",
+        "local_name":  "2 Peter",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-2thessalonians",
+        "root_name":  "2thessalonians",
+        "name":  "2thessalonians",
+        "local_name":  "2 Thessalonians",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-2timothy",
+        "root_name":  "2timothy",
+        "name":  "2timothy",
+        "local_name":  "2 Timothy",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-3john",
+        "root_name":  "3john",
+        "name":  "3john",
+        "local_name":  "3 John",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-acts",
+        "root_name":  "acts",
+        "name":  "acts",
+        "local_name":  "Acts",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-colossians",
+        "root_name":  "colossians",
+        "name":  "colossians",
+        "local_name":  "Colossians",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-corinthians",
+        "root_name":  "corinthians",
+        "name":  "corinthians",
+        "local_name":  "Corinthians",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-ephesians",
+        "root_name":  "ephesians",
+        "name":  "ephesians",
+        "local_name":  "Ephesians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-galatians",
+        "root_name":  "galatians",
+        "name":  "galatians",
+        "local_name":  "Galatians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-hebrews",
+        "root_name":  "hebrews",
+        "name":  "hebrews",
+        "local_name":  "Hebrews",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-james",
+        "root_name":  "james",
+        "name":  "james",
+        "local_name":  "James",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-john",
+        "root_name":  "john",
+        "name":  "john",
+        "local_name":  "John",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-jude",
+        "root_name":  "jude",
+        "name":  "jude",
+        "local_name":  "Jude",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-luke",
+        "root_name":  "luke",
+        "name":  "luke",
+        "local_name":  "Luke",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-mark",
+        "root_name":  "mark",
+        "name":  "mark",
+        "local_name":  "Mark",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-matthew",
+        "root_name":  "matthew",
+        "name":  "matthew",
+        "local_name":  "Matthew",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-philemon",
+        "root_name":  "philemon",
+        "name":  "philemon",
+        "local_name":  "Philemon",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-philippians",
+        "root_name":  "philippians",
+        "name":  "philippians",
+        "local_name":  "Philippians",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-revelation",
+        "root_name":  "revelation",
+        "name":  "revelation",
+        "local_name":  "Revelation",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-romans",
+        "root_name":  "romans",
+        "name":  "romans",
+        "local_name":  "Romans",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-emtv-titus",
+        "root_name":  "titus",
+        "name":  "titus",
+        "local_name":  "Titus",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    }
+]

@@ -1,0 +1,47 @@
+﻿[
+    {
+        "id":  "en-oke-deuteronomy",
+        "root_name":  "deuteronomy",
+        "name":  "deuteronomy",
+        "local_name":  "Deuteronomy",
+        "category":  "",
+        "total_chapters":  34,
+        "description":  ""
+    },
+    {
+        "id":  "en-oke-exodus",
+        "root_name":  "exodus",
+        "name":  "exodus",
+        "local_name":  "Exodus",
+        "category":  "",
+        "total_chapters":  40,
+        "description":  ""
+    },
+    {
+        "id":  "en-oke-genesis",
+        "root_name":  "genesis",
+        "name":  "genesis",
+        "local_name":  "Genesis",
+        "category":  "",
+        "total_chapters":  50,
+        "description":  ""
+    },
+    {
+        "id":  "en-oke-leviticus",
+        "root_name":  "leviticus",
+        "name":  "leviticus",
+        "local_name":  "Leviticus",
+        "category":  "",
+        "total_chapters":  27,
+        "description":  ""
+    },
+    {
+        "id":  "en-oke-numbers",
+        "root_name":  "numbers",
+        "name":  "numbers",
+        "local_name":  "Numbers",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    }
+]

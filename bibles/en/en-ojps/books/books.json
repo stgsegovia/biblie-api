@@ -1,0 +1,353 @@
+﻿[
+    {
+        "id":  "en-ojps-1chronicles",
+        "root_name":  "1chronicles",
+        "name":  "1chronicles",
+        "local_name":  "1 Chronicles",
+        "category":  "",
+        "total_chapters":  29,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-1kings",
+        "root_name":  "1kings",
+        "name":  "1kings",
+        "local_name":  "1 Kings",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-1samuel",
+        "root_name":  "1samuel",
+        "name":  "1samuel",
+        "local_name":  "1 Samuel",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-2chronicles",
+        "root_name":  "2chronicles",
+        "name":  "2chronicles",
+        "local_name":  "2 Chronicles",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-2kings",
+        "root_name":  "2kings",
+        "name":  "2kings",
+        "local_name":  "2 Kings",
+        "category":  "",
+        "total_chapters":  25,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-2samuel",
+        "root_name":  "2samuel",
+        "name":  "2samuel",
+        "local_name":  "2 Samuel",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-amos",
+        "root_name":  "amos",
+        "name":  "amos",
+        "local_name":  "Amos",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-daniel",
+        "root_name":  "daniel",
+        "name":  "daniel",
+        "local_name":  "Daniel",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-deuteronomy",
+        "root_name":  "deuteronomy",
+        "name":  "deuteronomy",
+        "local_name":  "Deuteronomy",
+        "category":  "",
+        "total_chapters":  34,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-ecclesiastes",
+        "root_name":  "ecclesiastes",
+        "name":  "ecclesiastes",
+        "local_name":  "Ecclesiastes",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-esther",
+        "root_name":  "esther",
+        "name":  "esther",
+        "local_name":  "Esther",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-exodus",
+        "root_name":  "exodus",
+        "name":  "exodus",
+        "local_name":  "Exodus",
+        "category":  "",
+        "total_chapters":  40,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-ezekiel",
+        "root_name":  "ezekiel",
+        "name":  "ezekiel",
+        "local_name":  "Ezekiel",
+        "category":  "",
+        "total_chapters":  48,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-ezra",
+        "root_name":  "ezra",
+        "name":  "ezra",
+        "local_name":  "Ezra",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-genesis",
+        "root_name":  "genesis",
+        "name":  "genesis",
+        "local_name":  "Genesis",
+        "category":  "",
+        "total_chapters":  50,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-habakkuk",
+        "root_name":  "habakkuk",
+        "name":  "habakkuk",
+        "local_name":  "Habakkuk",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-haggai",
+        "root_name":  "haggai",
+        "name":  "haggai",
+        "local_name":  "Haggai",
+        "category":  "",
+        "total_chapters":  2,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-hosea",
+        "root_name":  "hosea",
+        "name":  "hosea",
+        "local_name":  "Hosea",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-isaiah",
+        "root_name":  "isaiah",
+        "name":  "isaiah",
+        "local_name":  "Isaiah",
+        "category":  "",
+        "total_chapters":  66,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-jeremiah",
+        "root_name":  "jeremiah",
+        "name":  "jeremiah",
+        "local_name":  "Jeremiah",
+        "category":  "",
+        "total_chapters":  52,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-job",
+        "root_name":  "job",
+        "name":  "job",
+        "local_name":  "Job",
+        "category":  "",
+        "total_chapters":  42,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-joel",
+        "root_name":  "joel",
+        "name":  "joel",
+        "local_name":  "Joel",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-jonah",
+        "root_name":  "jonah",
+        "name":  "jonah",
+        "local_name":  "Jonah",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-joshua",
+        "root_name":  "joshua",
+        "name":  "joshua",
+        "local_name":  "Joshua",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-judges",
+        "root_name":  "judges",
+        "name":  "judges",
+        "local_name":  "Judges",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-lamentations",
+        "root_name":  "lamentations",
+        "name":  "lamentations",
+        "local_name":  "Lamentations",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-leviticus",
+        "root_name":  "leviticus",
+        "name":  "leviticus",
+        "local_name":  "Leviticus",
+        "category":  "",
+        "total_chapters":  27,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-malachi",
+        "root_name":  "malachi",
+        "name":  "malachi",
+        "local_name":  "Malachi",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-micah",
+        "root_name":  "micah",
+        "name":  "micah",
+        "local_name":  "Micah",
+        "category":  "",
+        "total_chapters":  7,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-nahum",
+        "root_name":  "nahum",
+        "name":  "nahum",
+        "local_name":  "Nahum",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-nehemiah",
+        "root_name":  "nehemiah",
+        "name":  "nehemiah",
+        "local_name":  "Nehemiah",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-numbers",
+        "root_name":  "numbers",
+        "name":  "numbers",
+        "local_name":  "Numbers",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-obadiah",
+        "root_name":  "obadiah",
+        "name":  "obadiah",
+        "local_name":  "Obadiah",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-proverbs",
+        "root_name":  "proverbs",
+        "name":  "proverbs",
+        "local_name":  "Proverbs",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-psalms",
+        "root_name":  "psalms",
+        "name":  "psalms",
+        "local_name":  "Psalms",
+        "category":  "",
+        "total_chapters":  150,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-ruth",
+        "root_name":  "ruth",
+        "name":  "ruth",
+        "local_name":  "Ruth",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-songofsolomon",
+        "root_name":  "songofsolomon",
+        "name":  "songofsolomon",
+        "local_name":  "Song of Solomon",
+        "category":  "",
+        "total_chapters":  8,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-zechariah",
+        "root_name":  "zechariah",
+        "name":  "zechariah",
+        "local_name":  "Zechariah",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-ojps-zephaniah",
+        "root_name":  "zephaniah",
+        "name":  "zephaniah",
+        "local_name":  "Zephaniah",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    }
+]

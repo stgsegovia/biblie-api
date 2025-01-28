@@ -1,0 +1,398 @@
+﻿[
+    {
+        "id":  "en-US-lxxup-amos",
+        "root_name":  "amos",
+        "name":  "amos",
+        "local_name":  "Amos",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-baruch",
+        "root_name":  "baruch",
+        "name":  "baruch",
+        "local_name":  "Baruch",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-chroniclesi",
+        "root_name":  "chroniclesi",
+        "name":  "chroniclesi",
+        "local_name":  "Chronicles I",
+        "category":  "",
+        "total_chapters":  29,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-chroniclesii",
+        "root_name":  "chroniclesii",
+        "name":  "chroniclesii",
+        "local_name":  "Chronicles II",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-danielgreek",
+        "root_name":  "danielgreek",
+        "name":  "danielgreek",
+        "local_name":  "Daniel (Greek)",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-deuteronomy",
+        "root_name":  "deuteronomy",
+        "name":  "deuteronomy",
+        "local_name":  "Deuteronomy",
+        "category":  "",
+        "total_chapters":  34,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-ecclesiastes",
+        "root_name":  "ecclesiastes",
+        "name":  "ecclesiastes",
+        "local_name":  "Ecclesiastes",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-epistleofjeremiah",
+        "root_name":  "epistleofjeremiah",
+        "name":  "epistleofjeremiah",
+        "local_name":  "Epistle of Jeremiah",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-esdrasi",
+        "root_name":  "esdrasi",
+        "name":  "esdrasi",
+        "local_name":  "Esdras I",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-esthergreek",
+        "root_name":  "esthergreek",
+        "name":  "esthergreek",
+        "local_name":  "Esther (Greek)",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-exodus",
+        "root_name":  "exodus",
+        "name":  "exodus",
+        "local_name":  "Exodus",
+        "category":  "",
+        "total_chapters":  40,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-ezekiel",
+        "root_name":  "ezekiel",
+        "name":  "ezekiel",
+        "local_name":  "Ezekiel",
+        "category":  "",
+        "total_chapters":  48,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-ezraandnehemiah",
+        "root_name":  "ezraandnehemiah",
+        "name":  "ezraandnehemiah",
+        "local_name":  "Ezra and Nehemiah",
+        "category":  "",
+        "total_chapters":  23,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-genesis",
+        "root_name":  "genesis",
+        "name":  "genesis",
+        "local_name":  "Genesis",
+        "category":  "",
+        "total_chapters":  50,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-habakkuk",
+        "root_name":  "habakkuk",
+        "name":  "habakkuk",
+        "local_name":  "Habakkuk",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-haggai",
+        "root_name":  "haggai",
+        "name":  "haggai",
+        "local_name":  "Haggai",
+        "category":  "",
+        "total_chapters":  2,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-hosea",
+        "root_name":  "hosea",
+        "name":  "hosea",
+        "local_name":  "Hosea",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-isaiah",
+        "root_name":  "isaiah",
+        "name":  "isaiah",
+        "local_name":  "Isaiah",
+        "category":  "",
+        "total_chapters":  66,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-jeremiah",
+        "root_name":  "jeremiah",
+        "name":  "jeremiah",
+        "local_name":  "Jeremiah",
+        "category":  "",
+        "total_chapters":  52,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-job",
+        "root_name":  "job",
+        "name":  "job",
+        "local_name":  "Job",
+        "category":  "",
+        "total_chapters":  42,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-joel",
+        "root_name":  "joel",
+        "name":  "joel",
+        "local_name":  "Joel",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-jonah",
+        "root_name":  "jonah",
+        "name":  "jonah",
+        "local_name":  "Jonah",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-joshua",
+        "root_name":  "joshua",
+        "name":  "joshua",
+        "local_name":  "Joshua",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-judges",
+        "root_name":  "judges",
+        "name":  "judges",
+        "local_name":  "Judges",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-judith",
+        "root_name":  "judith",
+        "name":  "judith",
+        "local_name":  "Judith",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-kingsi",
+        "root_name":  "kingsi",
+        "name":  "kingsi",
+        "local_name":  "Kings I",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-kingsii",
+        "root_name":  "kingsii",
+        "name":  "kingsii",
+        "local_name":  "Kings II",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-kingsiii",
+        "root_name":  "kingsiii",
+        "name":  "kingsiii",
+        "local_name":  "Kings III",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-kingsiv",
+        "root_name":  "kingsiv",
+        "name":  "kingsiv",
+        "local_name":  "Kings IV",
+        "category":  "",
+        "total_chapters":  25,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-lamentations",
+        "root_name":  "lamentations",
+        "name":  "lamentations",
+        "local_name":  "Lamentations",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-leviticus",
+        "root_name":  "leviticus",
+        "name":  "leviticus",
+        "local_name":  "Leviticus",
+        "category":  "",
+        "total_chapters":  27,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-malachi",
+        "root_name":  "malachi",
+        "name":  "malachi",
+        "local_name":  "Malachi",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-micah",
+        "root_name":  "micah",
+        "name":  "micah",
+        "local_name":  "Micah",
+        "category":  "",
+        "total_chapters":  7,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-nahum",
+        "root_name":  "nahum",
+        "name":  "nahum",
+        "local_name":  "Nahum",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-numbers",
+        "root_name":  "numbers",
+        "name":  "numbers",
+        "local_name":  "Numbers",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-obadiah",
+        "root_name":  "obadiah",
+        "name":  "obadiah",
+        "local_name":  "Obadiah",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-proverbs",
+        "root_name":  "proverbs",
+        "name":  "proverbs",
+        "local_name":  "Proverbs",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-ruth",
+        "root_name":  "ruth",
+        "name":  "ruth",
+        "local_name":  "Ruth",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-sirach",
+        "root_name":  "sirach",
+        "name":  "sirach",
+        "local_name":  "Sirach",
+        "category":  "",
+        "total_chapters":  51,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-songofsolomon",
+        "root_name":  "songofsolomon",
+        "name":  "songofsolomon",
+        "local_name":  "Song of Solomon",
+        "category":  "",
+        "total_chapters":  8,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-tobit",
+        "root_name":  "tobit",
+        "name":  "tobit",
+        "local_name":  "Tobit",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-wisdom",
+        "root_name":  "wisdom",
+        "name":  "wisdom",
+        "local_name":  "Wisdom",
+        "category":  "",
+        "total_chapters":  19,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-zechariah",
+        "root_name":  "zechariah",
+        "name":  "zechariah",
+        "local_name":  "Zechariah",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-lxxup-zephaniah",
+        "root_name":  "zephaniah",
+        "name":  "zephaniah",
+        "local_name":  "Zephaniah",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    }
+]

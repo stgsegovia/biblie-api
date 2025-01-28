@@ -1,0 +1,461 @@
+﻿[
+    {
+        "id":  "en-engbrent-ambacum",
+        "root_name":  "ambacum",
+        "name":  "ambacum",
+        "local_name":  "Ambacum",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-amos",
+        "root_name":  "amos",
+        "name":  "amos",
+        "local_name":  "Amos",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-baruch",
+        "root_name":  "baruch",
+        "name":  "baruch",
+        "local_name":  "Baruch",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-belandthedragon",
+        "root_name":  "belandthedragon",
+        "name":  "belandthedragon",
+        "local_name":  "Bel and the Dragon",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-chroniclesi",
+        "root_name":  "chroniclesi",
+        "name":  "chroniclesi",
+        "local_name":  "Chronicles I",
+        "category":  "",
+        "total_chapters":  29,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-chroniclesii",
+        "root_name":  "chroniclesii",
+        "name":  "chroniclesii",
+        "local_name":  "Chronicles II",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-deuteronomy",
+        "root_name":  "deuteronomy",
+        "name":  "deuteronomy",
+        "local_name":  "Deuteronomy",
+        "category":  "",
+        "total_chapters":  34,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-ecclesiastes",
+        "root_name":  "ecclesiastes",
+        "name":  "ecclesiastes",
+        "local_name":  "Ecclesiastes",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-epistleofjeremy",
+        "root_name":  "epistleofjeremy",
+        "name":  "epistleofjeremy",
+        "local_name":  "Epistle of Jeremy",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-esaias",
+        "root_name":  "esaias",
+        "name":  "esaias",
+        "local_name":  "Esaias",
+        "category":  "",
+        "total_chapters":  66,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-esther-greek",
+        "root_name":  "esther-greek",
+        "name":  "esther-greek",
+        "local_name":  "Esther (Greek)",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-exodus",
+        "root_name":  "exodus",
+        "name":  "exodus",
+        "local_name":  "Exodus",
+        "category":  "",
+        "total_chapters":  40,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-ezra",
+        "root_name":  "ezra",
+        "name":  "ezra",
+        "local_name":  "Ezra",
+        "category":  "",
+        "total_chapters":  23,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-genesis",
+        "root_name":  "genesis",
+        "name":  "genesis",
+        "local_name":  "Genesis",
+        "category":  "",
+        "total_chapters":  50,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-haggai",
+        "root_name":  "haggai",
+        "name":  "haggai",
+        "local_name":  "Aggæus",
+        "category":  "",
+        "total_chapters":  2,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-iesdras",
+        "root_name":  "iesdras",
+        "name":  "iesdras",
+        "local_name":  "I Esdras",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-iiimaccabees",
+        "root_name":  "iiimaccabees",
+        "name":  "iiimaccabees",
+        "local_name":  "III Maccabees",
+        "category":  "",
+        "total_chapters":  7,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-iimaccabees",
+        "root_name":  "iimaccabees",
+        "name":  "iimaccabees",
+        "local_name":  "II Maccabees",
+        "category":  "",
+        "total_chapters":  15,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-imaccabees",
+        "root_name":  "imaccabees",
+        "name":  "imaccabees",
+        "local_name":  "I Maccabees",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-ivmaccabees",
+        "root_name":  "ivmaccabees",
+        "name":  "ivmaccabees",
+        "local_name":  "IV Maccabees",
+        "category":  "",
+        "total_chapters":  18,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-jeremias",
+        "root_name":  "jeremias",
+        "name":  "jeremias",
+        "local_name":  "Jeremias",
+        "category":  "",
+        "total_chapters":  52,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-jezekiel",
+        "root_name":  "jezekiel",
+        "name":  "jezekiel",
+        "local_name":  "Jezekiel",
+        "category":  "",
+        "total_chapters":  48,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-job",
+        "root_name":  "job",
+        "name":  "job",
+        "local_name":  "Job",
+        "category":  "",
+        "total_chapters":  42,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-joel",
+        "root_name":  "joel",
+        "name":  "joel",
+        "local_name":  "Joel",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-jonas",
+        "root_name":  "jonas",
+        "name":  "jonas",
+        "local_name":  "Jonas",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-joshua",
+        "root_name":  "joshua",
+        "name":  "joshua",
+        "local_name":  "Joshua",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-judges",
+        "root_name":  "judges",
+        "name":  "judges",
+        "local_name":  "Judges",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-judith",
+        "root_name":  "judith",
+        "name":  "judith",
+        "local_name":  "Judith",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-kingsi",
+        "root_name":  "kingsi",
+        "name":  "kingsi",
+        "local_name":  "Kings I",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-kingsii",
+        "root_name":  "kingsii",
+        "name":  "kingsii",
+        "local_name":  "Kings II",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-kingsiii",
+        "root_name":  "kingsiii",
+        "name":  "kingsiii",
+        "local_name":  "Kings III",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-kingsiv",
+        "root_name":  "kingsiv",
+        "name":  "kingsiv",
+        "local_name":  "Kings IV",
+        "category":  "",
+        "total_chapters":  25,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-lamentations",
+        "root_name":  "lamentations",
+        "name":  "lamentations",
+        "local_name":  "Lamentations",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-leviticus",
+        "root_name":  "leviticus",
+        "name":  "leviticus",
+        "local_name":  "Leviticus",
+        "category":  "",
+        "total_chapters":  27,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-malachias",
+        "root_name":  "malachias",
+        "name":  "malachias",
+        "local_name":  "Malachias",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-micah",
+        "root_name":  "micah",
+        "name":  "micah",
+        "local_name":  "Michæas",
+        "category":  "",
+        "total_chapters":  7,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-naum",
+        "root_name":  "naum",
+        "name":  "naum",
+        "local_name":  "Naum",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-numbers",
+        "root_name":  "numbers",
+        "name":  "numbers",
+        "local_name":  "Numbers",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-obdias",
+        "root_name":  "obdias",
+        "name":  "obdias",
+        "local_name":  "Obdias",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-osee",
+        "root_name":  "osee",
+        "name":  "osee",
+        "local_name":  "Osee",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-prayerofmanasses",
+        "root_name":  "prayerofmanasses",
+        "name":  "prayerofmanasses",
+        "local_name":  "Prayer of Manasses",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-proverbs",
+        "root_name":  "proverbs",
+        "name":  "proverbs",
+        "local_name":  "Proverbs",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-psalms",
+        "root_name":  "psalms",
+        "name":  "psalms",
+        "local_name":  "Psalms",
+        "category":  "",
+        "total_chapters":  151,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-ruth",
+        "root_name":  "ruth",
+        "name":  "ruth",
+        "local_name":  "Ruth",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-sirach",
+        "root_name":  "sirach",
+        "name":  "sirach",
+        "local_name":  "Sirach",
+        "category":  "",
+        "total_chapters":  51,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-songofsolomon",
+        "root_name":  "songofsolomon",
+        "name":  "songofsolomon",
+        "local_name":  "The Song of Solomon",
+        "category":  "",
+        "total_chapters":  8,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-sophonias",
+        "root_name":  "sophonias",
+        "name":  "sophonias",
+        "local_name":  "Sophonias",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-susanna",
+        "root_name":  "susanna",
+        "name":  "susanna",
+        "local_name":  "Susanna",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-tobit",
+        "root_name":  "tobit",
+        "name":  "tobit",
+        "local_name":  "Tobit",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-wisdom",
+        "root_name":  "wisdom",
+        "name":  "wisdom",
+        "local_name":  "Wisdom",
+        "category":  "",
+        "total_chapters":  19,
+        "description":  ""
+    },
+    {
+        "id":  "en-engbrent-zacharias",
+        "root_name":  "zacharias",
+        "name":  "zacharias",
+        "local_name":  "Zacharias",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    }
+]

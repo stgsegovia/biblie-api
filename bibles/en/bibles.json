@@ -1,0 +1,380 @@
+[{
+        "id": "en-asv",
+        "version": "American Standard Version of 1901 [eng] ASV",
+        "description": "Adaptation of the English Revised Version of 1895 into American English",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of America",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "PUBLIC DOMAIN",
+        "localVersionName": "American Standard Version of the Holy Bible",
+        "localVersionAbbreviation": "ASV"
+    },
+    {
+        "id": "en-engbrent",
+        "version": "Brenton English Septuagint",
+        "description": "Translation of the Greek Septuagint into English by Sir Lancelot Charles Lee Brenton",
+        "scope": "Old Testament + Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United KingdomUnited States",
+            "code": "GBUS"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Johnson (PNG Scriptures)",
+        "copyright": "",
+        "localVersionName": "Brenton English Septuagint",
+        "localVersionAbbreviation": "engbrent"
+    },
+    {
+        "id": "en-fbv",
+        "version": "Free Bible Version",
+        "description": "Free Bible Version",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of America",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Jonathan Gallagher",
+        "copyright": "Version 4.1.",
+        "localVersionName": "Free Bible Version",
+        "localVersionAbbreviation": "FBV"
+    },
+    {
+        "id": "en-gnv",
+        "version": "Geneva Bible 1599 [eng] Old English",
+        "description": "The Geneva Bible in Old English of 1599",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United Kingdom",
+            "code": "GB"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Johnson (PNG Scriptures)",
+        "copyright": "",
+        "localVersionName": "Geneva Bible",
+        "localVersionAbbreviation": "GNV"
+    },
+    {
+        "id": "en-kjv",
+        "version": "King James Version [eng] without Strong's numbers, 1769 standardized text",
+        "description": "English: King James Version of the Holy Bible (Bible with Deuterocanon)",
+        "scope": "Bible with Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "code": "GB"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "KMPJ",
+        "copyright": "PUBLIC DOMAIN",
+        "localVersionName": "King James Version of the Holy Bible",
+        "localVersionAbbreviation": "KJV"
+    },
+    {
+        "id": "en-lsv",
+        "version": "Literal Standard Version",
+        "description": "English: Literal Standard Version (Bible)",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of AmericaUnited Kingdom of Great Britain and Northern IrelandCanadaAustraliaSouth AfricaNew Zealand",
+            "code": "USGBCAAUZANZ"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Gary Ray",
+        "copyright": "",
+        "localVersionName": "Literal Standard Version",
+        "localVersionAbbreviation": "LSV"
+    },
+    {
+        "id": "en-ojps",
+        "version": "Old JPS TaNaKH",
+        "description": "The Jewish Bible (Old Testament) in English, old JPS version of 1917",
+        "scope": "Old Testament",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Johnson (PNG Scriptures)",
+        "copyright": "",
+        "localVersionName": "JPS TaNaKH 1917",
+        "localVersionAbbreviation": "OJPS"
+    },
+    {
+        "id": "en-oke",
+        "version": "Targum Onkelos Etheridge",
+        "description": "Public domain",
+        "scope": "Portions",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "Unspecific",
+            "code": "ZZ"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "",
+        "localVersionName": "Targum Onkelos Etheridge",
+        "localVersionAbbreviation": "OKE"
+    },
+    {
+        "id": "en-rv",
+        "version": "Revised Version 1885",
+        "description": "Revision of the King James Version completed in 1885",
+        "scope": "Bible with Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "code": "GB"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "KMPJ",
+        "copyright": "",
+        "localVersionName": "Revised Version",
+        "localVersionAbbreviation": "RV"
+    },
+    {
+        "id": "en-t4t",
+        "version": "Translation for Translators [eng] USA",
+        "description": "An English translation of the Holy Bible that makes implicit information explicit",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of America",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "",
+        "localVersionName": "The Holy Bible: A Translation for Translators",
+        "localVersionAbbreviation": "T4T"
+    },
+    {
+        "id": "en-tcent",
+        "version": "The Text-Critical English New Testament",
+        "description": "English: Text-Critical English New Testament (New Testament)",
+        "scope": "New Testament",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of America",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "",
+        "localVersionName": "Text-Critical English New Testament",
+        "localVersionAbbreviation": "TCENT"
+    },
+    {
+        "id": "en-US-asvbt",
+        "version": "American Standard Version (Byzantine Text with Apocrypha)",
+        "description": "English: American Standard Version Byzantine Text with Apocrypha (Bible with Deuterocanon)",
+        "scope": "Bible with Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common - Literary"
+        },
+        "country": {
+            "name": "United States of America",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "",
+        "localVersionName": "American Standard Version Byzantine Text with Apocrypha",
+        "localVersionAbbreviation": "ASVBT"
+    },
+    {
+        "id": "en-US-emtv",
+        "version": "English Majority Text Version",
+        "description": "English: English Majority Text Version (New Testament)",
+        "scope": "New Testament",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Kahunapule Michael Johnson",
+        "copyright": "",
+        "localVersionName": "English Majority Text Version",
+        "localVersionAbbreviation": "EMTV"
+    },
+    {
+        "id": "en-US-f35",
+        "version": "The English New Testament According to Family 35",
+        "description": "English: The English New Testament According to Family 35 (New Testament)",
+        "scope": "New Testament",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "Unspecific",
+            "code": "ZZ"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Paul Johnson",
+        "copyright": "",
+        "localVersionName": "The English New Testament According to Family 35",
+        "localVersionAbbreviation": "F35"
+    },
+    {
+        "id": "en-US-kjvcpb",
+        "version": "The Cambridge Paragraph Bible of the Authorized English Version",
+        "description": "English: The Cambridge Paragraph Bible of the Authorized English Version (Bible with Deuterocanon)",
+        "scope": "Bible with Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States",
+            "code": "US"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Paul Johnson",
+        "copyright": "",
+        "localVersionName": "The Cambridge Paragraph Bible of the Authorized English Version",
+        "localVersionAbbreviation": "KJVCPB"
+    },
+    {
+        "id": "en-US-lxxup",
+        "version": "Brenton English Septuagint (Updated Spelling and Formatting)",
+        "description": "English: Brenton English Septuagint (Updated Spelling and Formatting) (Old Testament + Deuterocanon)",
+        "scope": "Old Testament + Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "Unspecific",
+            "code": "ZZ"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "Michael Paul Johnson",
+        "copyright": "",
+        "localVersionName": "Brenton English Septuagint (Updated Spelling and Formatting)",
+        "localVersionAbbreviation": "LXXup"
+    },
+    {
+        "id": "en-webus",
+        "version": "World English Bible USA without Strong's numbers",
+        "description": "The same as engWEB14, but with the Strong's numbers stripped out",
+        "scope": "Bible with Deuterocanon",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "United States of AmericaCanada",
+            "code": "USCA"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "KMPJ",
+        "copyright": "",
+        "localVersionName": "World English Bible, American English Edition, without Strong's numbers",
+        "localVersionAbbreviation": "WEBUS"
+    },
+    {
+        "id": "en-wmbbe",
+        "version": "World Messianic Bible British Edition",
+        "description": "A translation of the Holy Bible for Messianic Jews who use British/International English",
+        "scope": "Bible",
+        "language": {
+            "name": "English",
+            "code": "eng",
+            "level": "Common"
+        },
+        "country": {
+            "name": "AustraliaAmerican SamoaBahamasBelizeBritish Indian Ocean TerritoryVirgin Islands, BritishCanadaKenyaMicronesia, Federated States ofNew ZealandPapua New GuineaSamoaSingaporeTongaUnited Kingdom of Great Britain and Northern Ireland",
+            "code": "AUASBSBZIOVGCAKEFMNZPGWSSGTOGB"
+        },
+        "numeralSystem": "Arabic",
+        "script": "Latin",
+        "archivist": "KMPJ",
+        "copyright": "PUBLIC DOMAIN",
+        "localVersionName": "World Messianic Bible British Edition",
+        "localVersionAbbreviation": "WMBBE"
+    }
+
+]

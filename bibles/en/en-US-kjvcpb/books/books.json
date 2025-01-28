@@ -1,0 +1,713 @@
+﻿[
+    {
+        "id":  "en-US-kjvcpb-1chronicles",
+        "root_name":  "1chronicles",
+        "name":  "1chronicles",
+        "local_name":  "1 Chronicles",
+        "category":  "",
+        "total_chapters":  29,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1corinthians",
+        "root_name":  "1corinthians",
+        "name":  "1corinthians",
+        "local_name":  "1 Corinthians",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1esdras",
+        "root_name":  "1esdras",
+        "name":  "1esdras",
+        "local_name":  "1 Esdras",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1john",
+        "root_name":  "1john",
+        "name":  "1john",
+        "local_name":  "1 John",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1kings",
+        "root_name":  "1kings",
+        "name":  "1kings",
+        "local_name":  "1 Kings",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1maccabees",
+        "root_name":  "1maccabees",
+        "name":  "1maccabees",
+        "local_name":  "1 Maccabees",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1peter",
+        "root_name":  "1peter",
+        "name":  "1peter",
+        "local_name":  "1 Peter",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1samuel",
+        "root_name":  "1samuel",
+        "name":  "1samuel",
+        "local_name":  "1 Samuel",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1thessalonians",
+        "root_name":  "1thessalonians",
+        "name":  "1thessalonians",
+        "local_name":  "1 Thessalonians",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-1timothy",
+        "root_name":  "1timothy",
+        "name":  "1timothy",
+        "local_name":  "1 Timothy",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2chronicles",
+        "root_name":  "2chronicles",
+        "name":  "2chronicles",
+        "local_name":  "2 Chronicles",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2corinthians",
+        "root_name":  "2corinthians",
+        "name":  "2corinthians",
+        "local_name":  "2 Corinthians",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2esdras",
+        "root_name":  "2esdras",
+        "name":  "2esdras",
+        "local_name":  "2 Esdras",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2john",
+        "root_name":  "2john",
+        "name":  "2john",
+        "local_name":  "2 John",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2kings",
+        "root_name":  "2kings",
+        "name":  "2kings",
+        "local_name":  "2 Kings",
+        "category":  "",
+        "total_chapters":  25,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2maccabees",
+        "root_name":  "2maccabees",
+        "name":  "2maccabees",
+        "local_name":  "2 Maccabees",
+        "category":  "",
+        "total_chapters":  15,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2peter",
+        "root_name":  "2peter",
+        "name":  "2peter",
+        "local_name":  "2 Peter",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2samuel",
+        "root_name":  "2samuel",
+        "name":  "2samuel",
+        "local_name":  "2 Samuel",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2thessalonians",
+        "root_name":  "2thessalonians",
+        "name":  "2thessalonians",
+        "local_name":  "2 Thessalonians",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-2timothy",
+        "root_name":  "2timothy",
+        "name":  "2timothy",
+        "local_name":  "2 Timothy",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-3john",
+        "root_name":  "3john",
+        "name":  "3john",
+        "local_name":  "3 John",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-acts",
+        "root_name":  "acts",
+        "name":  "acts",
+        "local_name":  "Acts",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-amos",
+        "root_name":  "amos",
+        "name":  "amos",
+        "local_name":  "Amos",
+        "category":  "",
+        "total_chapters":  9,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-belandthedragon",
+        "root_name":  "belandthedragon",
+        "name":  "belandthedragon",
+        "local_name":  "Bel and the Dragon",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-colossians",
+        "root_name":  "colossians",
+        "name":  "colossians",
+        "local_name":  "Colossians",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-daniel",
+        "root_name":  "daniel",
+        "name":  "daniel",
+        "local_name":  "Daniel",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-deuteronomy",
+        "root_name":  "deuteronomy",
+        "name":  "deuteronomy",
+        "local_name":  "Deuteronomy",
+        "category":  "",
+        "total_chapters":  34,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ecclesiastes",
+        "root_name":  "ecclesiastes",
+        "name":  "ecclesiastes",
+        "local_name":  "Ecclesiastes",
+        "category":  "",
+        "total_chapters":  12,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ecclesiasticus",
+        "root_name":  "ecclesiasticus",
+        "name":  "ecclesiasticus",
+        "local_name":  "Ecclesiasticus",
+        "category":  "",
+        "total_chapters":  51,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ephesians",
+        "root_name":  "ephesians",
+        "name":  "ephesians",
+        "local_name":  "Ephesians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-esther",
+        "root_name":  "esther",
+        "name":  "esther",
+        "local_name":  "Esther",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-exodus",
+        "root_name":  "exodus",
+        "name":  "exodus",
+        "local_name":  "Exodus",
+        "category":  "",
+        "total_chapters":  40,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ezekiel",
+        "root_name":  "ezekiel",
+        "name":  "ezekiel",
+        "local_name":  "Ezekiel",
+        "category":  "",
+        "total_chapters":  48,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ezra",
+        "root_name":  "ezra",
+        "name":  "ezra",
+        "local_name":  "Ezra",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-galatians",
+        "root_name":  "galatians",
+        "name":  "galatians",
+        "local_name":  "Galatians",
+        "category":  "",
+        "total_chapters":  6,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-genesis",
+        "root_name":  "genesis",
+        "name":  "genesis",
+        "local_name":  "Genesis",
+        "category":  "",
+        "total_chapters":  50,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-habakkuk",
+        "root_name":  "habakkuk",
+        "name":  "habakkuk",
+        "local_name":  "Habakkuk",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-haggai",
+        "root_name":  "haggai",
+        "name":  "haggai",
+        "local_name":  "Haggai",
+        "category":  "",
+        "total_chapters":  2,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-hebrews",
+        "root_name":  "hebrews",
+        "name":  "hebrews",
+        "local_name":  "Hebrews",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-hosea",
+        "root_name":  "hosea",
+        "name":  "hosea",
+        "local_name":  "Hosea",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-isaiah",
+        "root_name":  "isaiah",
+        "name":  "isaiah",
+        "local_name":  "Isaiah",
+        "category":  "",
+        "total_chapters":  66,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-james",
+        "root_name":  "james",
+        "name":  "james",
+        "local_name":  "James",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-jeremiah",
+        "root_name":  "jeremiah",
+        "name":  "jeremiah",
+        "local_name":  "Jeremiah",
+        "category":  "",
+        "total_chapters":  52,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-job",
+        "root_name":  "job",
+        "name":  "job",
+        "local_name":  "Job",
+        "category":  "",
+        "total_chapters":  42,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-joel",
+        "root_name":  "joel",
+        "name":  "joel",
+        "local_name":  "Joel",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-john",
+        "root_name":  "john",
+        "name":  "john",
+        "local_name":  "John",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-jonah",
+        "root_name":  "jonah",
+        "name":  "jonah",
+        "local_name":  "Jonah",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-joshua",
+        "root_name":  "joshua",
+        "name":  "joshua",
+        "local_name":  "Joshua",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-jude",
+        "root_name":  "jude",
+        "name":  "jude",
+        "local_name":  "Jude",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-judges",
+        "root_name":  "judges",
+        "name":  "judges",
+        "local_name":  "Judges",
+        "category":  "",
+        "total_chapters":  21,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-judith",
+        "root_name":  "judith",
+        "name":  "judith",
+        "local_name":  "Judith",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-lamentations",
+        "root_name":  "lamentations",
+        "name":  "lamentations",
+        "local_name":  "Lamentations",
+        "category":  "",
+        "total_chapters":  5,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-leviticus",
+        "root_name":  "leviticus",
+        "name":  "leviticus",
+        "local_name":  "Leviticus",
+        "category":  "",
+        "total_chapters":  27,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-luke",
+        "root_name":  "luke",
+        "name":  "luke",
+        "local_name":  "Luke",
+        "category":  "",
+        "total_chapters":  24,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-malachi",
+        "root_name":  "malachi",
+        "name":  "malachi",
+        "local_name":  "Malachi",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-mark",
+        "root_name":  "mark",
+        "name":  "mark",
+        "local_name":  "Mark",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-matthew",
+        "root_name":  "matthew",
+        "name":  "matthew",
+        "local_name":  "Matthew",
+        "category":  "",
+        "total_chapters":  28,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-micah",
+        "root_name":  "micah",
+        "name":  "micah",
+        "local_name":  "Micah",
+        "category":  "",
+        "total_chapters":  7,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-nahum",
+        "root_name":  "nahum",
+        "name":  "nahum",
+        "local_name":  "Nahum",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-nehemiah",
+        "root_name":  "nehemiah",
+        "name":  "nehemiah",
+        "local_name":  "Nehemiah",
+        "category":  "",
+        "total_chapters":  13,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-numbers",
+        "root_name":  "numbers",
+        "name":  "numbers",
+        "local_name":  "Numbers",
+        "category":  "",
+        "total_chapters":  36,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-obadiah",
+        "root_name":  "obadiah",
+        "name":  "obadiah",
+        "local_name":  "Obadiah",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-philemon",
+        "root_name":  "philemon",
+        "name":  "philemon",
+        "local_name":  "Philemon",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-philippians",
+        "root_name":  "philippians",
+        "name":  "philippians",
+        "local_name":  "Philippians",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-prayerofmanasses",
+        "root_name":  "prayerofmanasses",
+        "name":  "prayerofmanasses",
+        "local_name":  "Prayer of Manasses",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-proverbs",
+        "root_name":  "proverbs",
+        "name":  "proverbs",
+        "local_name":  "Proverbs",
+        "category":  "",
+        "total_chapters":  31,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-psalms",
+        "root_name":  "psalms",
+        "name":  "psalms",
+        "local_name":  "Psalms",
+        "category":  "",
+        "total_chapters":  150,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-revelation",
+        "root_name":  "revelation",
+        "name":  "revelation",
+        "local_name":  "Revelation",
+        "category":  "",
+        "total_chapters":  22,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-romans",
+        "root_name":  "romans",
+        "name":  "romans",
+        "local_name":  "Romans",
+        "category":  "",
+        "total_chapters":  16,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-ruth",
+        "root_name":  "ruth",
+        "name":  "ruth",
+        "local_name":  "Ruth",
+        "category":  "",
+        "total_chapters":  4,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-songofsolomon",
+        "root_name":  "songofsolomon",
+        "name":  "songofsolomon",
+        "local_name":  "Song of Solomon",
+        "category":  "",
+        "total_chapters":  8,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-songofthethreeholychildren",
+        "root_name":  "songofthethreeholychildren",
+        "name":  "songofthethreeholychildren",
+        "local_name":  "Song of the Three Holy Children",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-susanna",
+        "root_name":  "susanna",
+        "name":  "susanna",
+        "local_name":  "Susanna",
+        "category":  "",
+        "total_chapters":  1,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-therestofesther",
+        "root_name":  "therestofesther",
+        "name":  "therestofesther",
+        "local_name":  "The Rest of Esther",
+        "category":  "",
+        "total_chapters":  10,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-titus",
+        "root_name":  "titus",
+        "name":  "titus",
+        "local_name":  "Titus",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-tobit",
+        "root_name":  "tobit",
+        "name":  "tobit",
+        "local_name":  "Tobit",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-wisdomofsolomon",
+        "root_name":  "wisdomofsolomon",
+        "name":  "wisdomofsolomon",
+        "local_name":  "Wisdom of Solomon",
+        "category":  "",
+        "total_chapters":  19,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-zechariah",
+        "root_name":  "zechariah",
+        "name":  "zechariah",
+        "local_name":  "Zechariah",
+        "category":  "",
+        "total_chapters":  14,
+        "description":  ""
+    },
+    {
+        "id":  "en-US-kjvcpb-zephaniah",
+        "root_name":  "zephaniah",
+        "name":  "zephaniah",
+        "local_name":  "Zephaniah",
+        "category":  "",
+        "total_chapters":  3,
+        "description":  ""
+    }
+]

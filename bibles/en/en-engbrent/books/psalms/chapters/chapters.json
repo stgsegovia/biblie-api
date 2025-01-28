@@ -1,0 +1,606 @@
+﻿[
+    {
+        "chapter":  1,
+        "verses":  21
+    },
+    {
+        "chapter":  2,
+        "verses":  78
+    },
+    {
+        "chapter":  3,
+        "verses":  45
+    },
+    {
+        "chapter":  4,
+        "verses":  45
+    },
+    {
+        "chapter":  5,
+        "verses":  91
+    },
+    {
+        "chapter":  6,
+        "verses":  66
+    },
+    {
+        "chapter":  7,
+        "verses":  171
+    },
+    {
+        "chapter":  8,
+        "verses":  55
+    },
+    {
+        "chapter":  9,
+        "verses":  780
+    },
+    {
+        "chapter":  10,
+        "verses":  28
+    },
+    {
+        "chapter":  11,
+        "verses":  45
+    },
+    {
+        "chapter":  12,
+        "verses":  21
+    },
+    {
+        "chapter":  13,
+        "verses":  28
+    },
+    {
+        "chapter":  14,
+        "verses":  15
+    },
+    {
+        "chapter":  15,
+        "verses":  66
+    },
+    {
+        "chapter":  16,
+        "verses":  120
+    },
+    {
+        "chapter":  17,
+        "verses":  1326
+    },
+    {
+        "chapter":  18,
+        "verses":  120
+    },
+    {
+        "chapter":  19,
+        "verses":  55
+    },
+    {
+        "chapter":  20,
+        "verses":  105
+    },
+    {
+        "chapter":  21,
+        "verses":  528
+    },
+    {
+        "chapter":  22,
+        "verses":  21
+    },
+    {
+        "chapter":  23,
+        "verses":  55
+    },
+    {
+        "chapter":  24,
+        "verses":  253
+    },
+    {
+        "chapter":  25,
+        "verses":  78
+    },
+    {
+        "chapter":  26,
+        "verses":  105
+    },
+    {
+        "chapter":  27,
+        "verses":  45
+    },
+    {
+        "chapter":  28,
+        "verses":  66
+    },
+    {
+        "chapter":  29,
+        "verses":  91
+    },
+    {
+        "chapter":  30,
+        "verses":  325
+    },
+    {
+        "chapter":  31,
+        "verses":  66
+    },
+    {
+        "chapter":  32,
+        "verses":  253
+    },
+    {
+        "chapter":  33,
+        "verses":  276
+    },
+    {
+        "chapter":  34,
+        "verses":  406
+    },
+    {
+        "chapter":  35,
+        "verses":  91
+    },
+    {
+        "chapter":  36,
+        "verses":  820
+    },
+    {
+        "chapter":  37,
+        "verses":  276
+    },
+    {
+        "chapter":  38,
+        "verses":  105
+    },
+    {
+        "chapter":  39,
+        "verses":  171
+    },
+    {
+        "chapter":  40,
+        "verses":  105
+    },
+    {
+        "chapter":  41,
+        "verses":  78
+    },
+    {
+        "chapter":  42,
+        "verses":  15
+    },
+    {
+        "chapter":  43,
+        "verses":  378
+    },
+    {
+        "chapter":  44,
+        "verses":  171
+    },
+    {
+        "chapter":  45,
+        "verses":  78
+    },
+    {
+        "chapter":  46,
+        "verses":  55
+    },
+    {
+        "chapter":  47,
+        "verses":  120
+    },
+    {
+        "chapter":  48,
+        "verses":  231
+    },
+    {
+        "chapter":  49,
+        "verses":  276
+    },
+    {
+        "chapter":  50,
+        "verses":  231
+    },
+    {
+        "chapter":  51,
+        "verses":  66
+    },
+    {
+        "chapter":  52,
+        "verses":  28
+    },
+    {
+        "chapter":  53,
+        "verses":  45
+    },
+    {
+        "chapter":  54,
+        "verses":  300
+    },
+    {
+        "chapter":  55,
+        "verses":  105
+    },
+    {
+        "chapter":  56,
+        "verses":  78
+    },
+    {
+        "chapter":  57,
+        "verses":  78
+    },
+    {
+        "chapter":  58,
+        "verses":  171
+    },
+    {
+        "chapter":  59,
+        "verses":  105
+    },
+    {
+        "chapter":  60,
+        "verses":  45
+    },
+    {
+        "chapter":  61,
+        "verses":  91
+    },
+    {
+        "chapter":  62,
+        "verses":  78
+    },
+    {
+        "chapter":  63,
+        "verses":  66
+    },
+    {
+        "chapter":  64,
+        "verses":  105
+    },
+    {
+        "chapter":  65,
+        "verses":  210
+    },
+    {
+        "chapter":  66,
+        "verses":  36
+    },
+    {
+        "chapter":  67,
+        "verses":  666
+    },
+    {
+        "chapter":  68,
+        "verses":  703
+    },
+    {
+        "chapter":  69,
+        "verses":  21
+    },
+    {
+        "chapter":  70,
+        "verses":  300
+    },
+    {
+        "chapter":  71,
+        "verses":  210
+    },
+    {
+        "chapter":  72,
+        "verses":  406
+    },
+    {
+        "chapter":  73,
+        "verses":  276
+    },
+    {
+        "chapter":  74,
+        "verses":  66
+    },
+    {
+        "chapter":  75,
+        "verses":  91
+    },
+    {
+        "chapter":  76,
+        "verses":  231
+    },
+    {
+        "chapter":  77,
+        "verses":  2628
+    },
+    {
+        "chapter":  78,
+        "verses":  91
+    },
+    {
+        "chapter":  79,
+        "verses":  210
+    },
+    {
+        "chapter":  80,
+        "verses":  153
+    },
+    {
+        "chapter":  81,
+        "verses":  36
+    },
+    {
+        "chapter":  82,
+        "verses":  190
+    },
+    {
+        "chapter":  83,
+        "verses":  91
+    },
+    {
+        "chapter":  84,
+        "verses":  105
+    },
+    {
+        "chapter":  85,
+        "verses":  153
+    },
+    {
+        "chapter":  86,
+        "verses":  28
+    },
+    {
+        "chapter":  87,
+        "verses":  190
+    },
+    {
+        "chapter":  88,
+        "verses":  1431
+    },
+    {
+        "chapter":  89,
+        "verses":  153
+    },
+    {
+        "chapter":  90,
+        "verses":  136
+    },
+    {
+        "chapter":  91,
+        "verses":  136
+    },
+    {
+        "chapter":  92,
+        "verses":  15
+    },
+    {
+        "chapter":  93,
+        "verses":  276
+    },
+    {
+        "chapter":  94,
+        "verses":  66
+    },
+    {
+        "chapter":  95,
+        "verses":  91
+    },
+    {
+        "chapter":  96,
+        "verses":  78
+    },
+    {
+        "chapter":  97,
+        "verses":  45
+    },
+    {
+        "chapter":  98,
+        "verses":  45
+    },
+    {
+        "chapter":  99,
+        "verses":  15
+    },
+    {
+        "chapter":  100,
+        "verses":  36
+    },
+    {
+        "chapter":  101,
+        "verses":  435
+    },
+    {
+        "chapter":  102,
+        "verses":  253
+    },
+    {
+        "chapter":  103,
+        "verses":  630
+    },
+    {
+        "chapter":  104,
+        "verses":  1035
+    },
+    {
+        "chapter":  105,
+        "verses":  1176
+    },
+    {
+        "chapter":  106,
+        "verses":  946
+    },
+    {
+        "chapter":  107,
+        "verses":  105
+    },
+    {
+        "chapter":  108,
+        "verses":  496
+    },
+    {
+        "chapter":  109,
+        "verses":  28
+    },
+    {
+        "chapter":  110,
+        "verses":  55
+    },
+    {
+        "chapter":  111,
+        "verses":  55
+    },
+    {
+        "chapter":  112,
+        "verses":  45
+    },
+    {
+        "chapter":  113,
+        "verses":  351
+    },
+    {
+        "chapter":  114,
+        "verses":  45
+    },
+    {
+        "chapter":  115,
+        "verses":  50
+    },
+    {
+        "chapter":  116,
+        "verses":  3
+    },
+    {
+        "chapter":  117,
+        "verses":  435
+    },
+    {
+        "chapter":  118,
+        "verses":  15489
+    },
+    {
+        "chapter":  119,
+        "verses":  28
+    },
+    {
+        "chapter":  120,
+        "verses":  36
+    },
+    {
+        "chapter":  121,
+        "verses":  45
+    },
+    {
+        "chapter":  122,
+        "verses":  10
+    },
+    {
+        "chapter":  123,
+        "verses":  36
+    },
+    {
+        "chapter":  124,
+        "verses":  15
+    },
+    {
+        "chapter":  125,
+        "verses":  21
+    },
+    {
+        "chapter":  126,
+        "verses":  15
+    },
+    {
+        "chapter":  127,
+        "verses":  21
+    },
+    {
+        "chapter":  128,
+        "verses":  36
+    },
+    {
+        "chapter":  129,
+        "verses":  36
+    },
+    {
+        "chapter":  130,
+        "verses":  6
+    },
+    {
+        "chapter":  131,
+        "verses":  171
+    },
+    {
+        "chapter":  132,
+        "verses":  6
+    },
+    {
+        "chapter":  133,
+        "verses":  6
+    },
+    {
+        "chapter":  134,
+        "verses":  231
+    },
+    {
+        "chapter":  135,
+        "verses":  351
+    },
+    {
+        "chapter":  136,
+        "verses":  45
+    },
+    {
+        "chapter":  137,
+        "verses":  36
+    },
+    {
+        "chapter":  138,
+        "verses":  300
+    },
+    {
+        "chapter":  139,
+        "verses":  105
+    },
+    {
+        "chapter":  140,
+        "verses":  55
+    },
+    {
+        "chapter":  141,
+        "verses":  36
+    },
+    {
+        "chapter":  142,
+        "verses":  78
+    },
+    {
+        "chapter":  143,
+        "verses":  120
+    },
+    {
+        "chapter":  144,
+        "verses":  231
+    },
+    {
+        "chapter":  145,
+        "verses":  55
+    },
+    {
+        "chapter":  146,
+        "verses":  66
+    },
+    {
+        "chapter":  147,
+        "verses":  45
+    },
+    {
+        "chapter":  148,
+        "verses":  105
+    },
+    {
+        "chapter":  149,
+        "verses":  45
+    },
+    {
+        "chapter":  150,
+        "verses":  21
+    },
+    {
+        "chapter":  151,
+        "verses":  28
+    }
+]
